@@ -7,7 +7,6 @@ Ce dépôt contient une série de travaux pratiques en **Processing** réalisés
 - **Exercice 1** : Spectre de couleur avec dégradé HSB
 - **Exercice 2** : Balle rebondissante avec gestion des collisions
 - **Exercice 3** : Ellipse suivant la souris avec interpolation
-- **Exercice 4** : Mélange de couleurs progressif sur clic
 
 ### TP2 : 3D avec Processing
 - **Exercice 1** : Rotation d'un cube en 3D (interaction souris)
